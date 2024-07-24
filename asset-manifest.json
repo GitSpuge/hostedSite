@@ -9,7 +9,7 @@
     "main.3a733040.js.map": "/hostedSite/static/js/main.3a733040.js.map"
   },
   "entrypoints": [
-    "static/css/main.53905d31.css",
-    "static/js/main.3a733040.js"
+    "/hostedSite/static/css/main.53905d31.css",
+    "/hostedSite/static/js/main.3a733040.js"
   ]
 }
